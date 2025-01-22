@@ -1,6 +1,8 @@
 # Eternal-Rising
 An asymmetrical real-time strategy multiplayer game using Unreal Engine and Steamworks. Future plans will incorporate Flecs to manage larger hordes of zombies.
 
+Warning: The following gifs may take a moment to load.
+
 ## Steamworks 
 Includes a wrapper to handle server requests from Steam and a fully functioning server browser with working filters.
 
